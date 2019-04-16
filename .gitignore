@@ -7,5 +7,6 @@ node_modules
 .DS_STORE
 coverage
 dist
+yarn.lock
 package-lock.json
 _book
